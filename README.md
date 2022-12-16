@@ -1,5 +1,5 @@
 <div align="center" >
-	<img heigth="200px" width="100%" src="header.svg" />
+	<img heigth="400px" width="100%" src="header.svg" />
 	<h1>Hello, there! <img src="https://raw.githubusercontent.com/fckdatsh/fckdatsh/master/wave.gif" width="30px" height="30px" /></h1>
 
 My name is Robert Da Corte and I'm a software developer currently working at <a href="https://www.colkie.com/about-us">Colkie</a>. You can find me on <a href="https://www.linkedin.com/in/robertdacorte/?locale=en_US"> Linkedin </a>.
