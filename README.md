@@ -1,7 +1,7 @@
 <div align="center" >
 	<img heigth="400px" width="100%" src="header.svg" />
-	<h1>Hello, there! <img src="https://raw.githubusercontent.com/fckdatsh/fckdatsh/master/wave.gif" width="30px" height="30px" /></h1>
-
+	<h1>Hello there! <img src="https://raw.githubusercontent.com/fckdatsh/fckdatsh/master/wave.gif" width="30px" height="30px" /></h1>
+  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/8JTFsZmnTR1Rs1JFVP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/8JTFsZmnTR1Rs1JFVP">via GIPHY</a></p>
 My name is Robert Da Corte and I'm a software developer currently working at <a href="https://www.colkie.com/about-us">Colkie</a>. You can find me on <a href="https://www.linkedin.com/in/robertdacorte/?locale=en_US"> Linkedin </a>.
 
 ## 🔧 Technologies & Tools
