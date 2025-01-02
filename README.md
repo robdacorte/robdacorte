@@ -2,11 +2,9 @@
 	<img heigth="400px" width="100%" src="header.svg" />
   <div>
 	<h1>Hello there! <img src="https://raw.githubusercontent.com/fckdatsh/fckdatsh/master/wave.gif" width="30px" height="30px" /></h1>
-  
-  <img src="https://github.com/fckdatsh/fckdatsh/blob/main/assets/images/hello-there.gif?raw=true" height="150" alt="general grievous" />
   <p>
   </div>
-My name is Robert Da Corte and I'm a software developer currently working at <a href="https://www.colkie.com/about-us">Colkie</a>. You can find me on <a href="https://www.linkedin.com/in/robertdacorte/?locale=en_US"> Linkedin </a>.
+My name is Robert Da Corte and I'm a software developer. You can find me on <a href="https://www.linkedin.com/in/robertdacorte/?locale=en_US"> Linkedin </a>.
 </p>
 
 ## 🔧 Technologies & Tools
